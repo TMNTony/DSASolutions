@@ -1,0 +1,15 @@
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/bin/Debug/net8.0/DSASolutions
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/bin/Debug/net8.0/DSASolutions.deps.json
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/bin/Debug/net8.0/DSASolutions.runtimeconfig.json
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/bin/Debug/net8.0/DSASolutions.dll
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/bin/Debug/net8.0/DSASolutions.pdb
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/obj/Debug/net8.0/DSASolutions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/obj/Debug/net8.0/DSASolutions.AssemblyInfoInputs.cache
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/obj/Debug/net8.0/DSASolutions.AssemblyInfo.cs
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/obj/Debug/net8.0/DSASolutions.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/obj/Debug/net8.0/DSASolutions.sourcelink.json
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/obj/Debug/net8.0/DSASolutions.dll
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/obj/Debug/net8.0/refint/DSASolutions.dll
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/obj/Debug/net8.0/DSASolutions.pdb
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/obj/Debug/net8.0/DSASolutions.genruntimeconfig.cache
+/Users/tony/Documents/Coding/DSASolutions/DSASolutions/obj/Debug/net8.0/ref/DSASolutions.dll
